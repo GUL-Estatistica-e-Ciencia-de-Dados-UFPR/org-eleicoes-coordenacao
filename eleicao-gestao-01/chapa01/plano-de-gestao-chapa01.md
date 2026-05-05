@@ -24,8 +24,7 @@ técnica, colaboração aberta e desenvolvimento coletivo.
 
 A proposta desta chapa está orientada para a consolidação institucional
 do grupo, expansão de suas atividades e fortalecimento de sua comunidade
-interna e externa. Pretende-se estabelecer uma base sólida que permita a
-continuidade e expansão das iniciativas do GULECD/UFPR.
+interna e externa.
 
 A visão da chapa é edificar um grupo com bases sólidas e duradouras, uma
 agremiação autossustentável que sobreviva e cresça além da passagem de
