@@ -1,7 +1,7 @@
 ---
 author:
 - Chapa 01
-date: 2026-04-28
+date: 2026-05-05
 title: |
   **Declaração de Conhecimento  
   GULECD/UFPR**
@@ -51,6 +51,12 @@ integrante do processo eleitoral e da validação da candidatura.
 Nome: Marcos Oliveira de Carvalho  
 
 **Vice-Coordenador Representativo:**  
-Nome: \[Inserir Nome Completo\]  
+Nome: Rafael Alisson Schipiura  
 
-**Demais Membros da Chapa:**  
+**Núcleo de Coordenação:**  
+
+- Gabriel Borges
+
+- Guilherme dos Santos Verissimo
+
+- Rafael Noronha

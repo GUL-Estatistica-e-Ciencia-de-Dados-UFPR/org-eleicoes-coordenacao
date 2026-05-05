@@ -1,17 +1,11 @@
 ---
 author:
 - Chapa 01
-date: 2026-04-28
+date: 2026-05-05
 title: |
-  **Composição da Chapa 01  
+  **Composição da Chapa 01 - "stats.sh"  
   GULECD/UFPR**
 ---
-
-# Introdução
-
-Este documento apresenta a composição completa da chapa 01 candidata à
-coordenação do GULECD/UFPR, incluindo os cargos propostos e uma breve
-descrição do perfil de cada integrante.
 
 # Coordenação Representativa
 
@@ -19,138 +13,112 @@ descrição do perfil de cada integrante.
 
 **Nome:** Marcos Oliveira de Carvalho
 
-**Curso/Vínculo:** Estatística e Ciência de Dados
+**Curso/Vínculo:** Estatística e Ciência de Dados - UFPR
 
-**Mini-biografia:** Marcos de Carvalho é farmacêutico-bioquímico (UFSM),
-com mestrado em Biologia Celular e Molecular (UFRGS), doutorado em
-Genética e Biologia Molecular (UFRGS) e formação em empreendedorismo
-(Babson College). Possui experiência em bioinformática e biologia
-computacional, com atuação em áreas como genômica, metagenômica e
-oncogenômica. É fundador de duas startups de biotecnologia, com
-trajetória voltada à inovação e desenvolvimento de soluções baseadas em
-dados integradas a processos laboratoriais. Atualmente, atua como
-pesquisador de pós-doutorado na área de medicina translacional no
-CHC-UFPR, com interesse em integração de dados clínicos e moleculares,
-ao mesmo tempo em que cursa graduação em Estatística e Ciência de Dados
-(UFPR). Tem grande interesse em software livre/código aberto,
-ciência/tecnologia e no desenvolvimento de infraestrutura técnica para
-pesquisa e formação acadêmica. É usuário de sistemas Linux desde 1999,
-com experiência desde computadores pessoais e servidores até clusters de
-computação de alta performance.
+**Mini-biografia:** Marcos de Carvalho é farmacêutico (UFSM), com
+mestrado em Biologia Celular e Molecular (UFRGS), doutorado em Genética
+e Biologia Molecular (UFRGS) e formação executiva pelo Babson College
+(MA/EUA). Possui experiência em bioinformática e biologia computacional,
+com atuação em áreas como genômica, metagenômica e oncogenômica. Foi
+fundador e líder de duas startups de biotecnologia, com trajetória
+voltada à inovação e desenvolvimento de soluções baseadas em dados
+integradas a processos biotecnológicos. Atualmente atua como pesquisador
+de pós-doutorado na área de medicina translacional no CHC-UFPR, com
+interesse em integração de dados clínicos e moleculares, ao mesmo tempo
+em que cursa graduação em Estatística e Ciência de Dados (UFPR). Tem
+grande interesse em software livre/código aberto e ciência/tecnologia. É
+usuário de sistemas Linux desde 1999, com experiência em computadores
+pessoais e servidores até clusters de computação de alta performance.
+Apaixonado por música e metalhead desde criança.
 
 ## Vice-Coordenador Representativo
 
-**Nome:** \[Inserir Nome Completo\]
+**Nome:** Rafael Alisson Schipiura
 
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
+**Curso/Vínculo:** Estatística e Ciência de Dados - UFPR
 
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
+**Mini-biografia:** Rafael Alisson Schipiura é Técnico em Engenharia de
+Dados na Celepar, com interesse em engenharia de dados, infraestrutura e
+soluções open source. Possui experiência de 13 anos como Administrador
+de Sistemas Desktop Linux, além de atuação recente em análise de dados,
+pipelines de dados e suporte a ambientes corporativos Linux. Atualmente
+cursa sua primeira graduação.
 
-# Núcleo de Coordenação
+# Núcleo de Coordenação - Em ordem alfabética
 
 ## Membro do Núcleo de Coordenação 1
 
-**Nome:** \[Inserir Nome Completo\]
+**Nome:** Gabriel Borges
 
 **Cargo Proposto:** Coordenador Associado
 
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
+**Curso/Vínculo:** Estatística e Ciência de Dados - UFPR
 
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
+**Mini-biografia:** Gabriel Borges é Cientista de Dados, com forte
+interesse em aprendizado de máquina clássico, agentes conversacionais,
+Reinforcement Learning, Federated Learning, detecção de anomalias e
+visão computacional. Atualmente na VTEX, possui experiência e atuação no
+desenvolvimento e no ciclo de vida de modelos de ML em produção,
+observabilidade e escalabilidade de sistemas de IA, pesquisa aplicada em
+saúde digital, liderança da equipe de Ciência de Dados em projeto de
+extensão tecnológica financiado pela FACEPE, além de diversas
+publicações científicas. Também possui experiência em programação em
+Python, C, Java e Typescript, manutenção de biblioteca publicada no
+PyPI, contribuição para a comunidade Arch Linux por meio do AUR, uso
+avançado de sistemas Linux, análise de dados e participação em pesquisa
+em Visão Computacional e Inteligência Artificial. É discente do curso de
+Estatística e Ciência de Dados na UFPR e membro estudante do IEEE.
 
 ## Membro do Núcleo de Coordenação 2
 
-**Nome:** \[Inserir Nome Completo\]
+**Nome:** Guilherme dos Santos Verissimo
 
 **Cargo Proposto:** Coordenador Associado
 
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
+**Curso/Vínculo:** Estatística e Ciência de Dados - UFPR
 
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
+**Mini-biografia:** Guilherme dos Santos Verissimo é estudante de
+Estatística e Ciência de Dados da UFPR e atua profissionalmente há mais
+de três anos na área de tecnologia, com foco em engenharia de dados,
+automação e integração de sistemas corporativos. Foi co-fundador de uma
+empresa de marketing onde coordenou o time de tecnologia e liderou o
+desenvolvimento de sistemas internos. Atualmente se especializa em
+Ciência e Engenharia de Dados com o objetivo de viabilizar o acesso à
+informação de qualidade para públicos de diferentes áreas e níveis de
+formação. Em todos os seus projetos utiliza Linux como sistema
+operacional e prioriza o uso de software livre, por acreditar na
+urgência da democratização do acesso à tecnologia e na necessidade de
+soberania tecnológica do Brasil frente às grandes corporações do setor.
 
 ## Membro do Núcleo de Coordenação 3
 
-**Nome:** \[Inserir Nome Completo\]
+**Nome:** Matheus Cabús
 
 **Cargo Proposto:** Coordenador Associado
 
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
+**Curso/Vínculo:** Estatística e Ciência de Dados - UFPR
 
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
+**Mini-biografia:** Matheus Cabús é estudante de Estatística e Ciência
+de Dados pela UFPR com forte curiosidade interdisciplinar. Domina R,
+Python e SQL para análise, modelagem estatística e machine learning, tem
+experiência em programação (Python, C/C++), desenvolvimento web (HTML,
+CSS, JavaScript), além de conhecimentos em eletrônica básica (Arduino,
+PCBs) e paixão por produção de conteúdo como fotografia, edição de
+imagem e vídeo, design vetorial e produção musical. Atualmente está
+trabalhando como Estagiário na Solution IPD e Consultor de Informática
+na QCP.
 
 ## Membro do Núcleo de Coordenação 4
 
-**Nome:** \[Inserir Nome Completo\]
+**Nome:** Rafael Noronha
 
 **Cargo Proposto:** Coordenador Associado
 
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
+**Curso/Vínculo:** Estatística e Ciência de Dados - UFPR
 
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
-
-## Membro do Núcleo de Coordenação 5
-
-**Nome:** \[Inserir Nome Completo\]
-
-**Cargo Proposto:** Coordenador Associado
-
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
-
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
-
-## Membro do Núcleo de Coordenação 6
-
-**Nome:** \[Inserir Nome Completo\]
-
-**Cargo Proposto:** Coordenador Associado
-
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
-
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
-
-## Membro do Núcleo de Coordenação 7
-
-**Nome:** \[Inserir Nome Completo\]
-
-**Cargo Proposto:** Coordenador Associado
-
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
-
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
-
-## Membro do Núcleo de Coordenação 8
-
-**Nome:** \[Inserir Nome Completo\]
-
-**Cargo Proposto:** Coordenador Associado
-
-**Curso/Vínculo:** \[Inserir curso, programa ou vínculo institucional\]
-
-**Mini-biografia:** \[Inserir uma breve descrição do membro, incluindo
-formação, experiência relevante, participação no grupo e interesses
-acadêmicos ou profissionais.\]
-
-# Considerações Finais
-
-A composição desta chapa foi estruturada com o objetivo de garantir
-diversidade de competências, equilíbrio entre experiência e potencial de
-desenvolvimento, e alinhamento com os princípios do GULECD/UFPR.
-
-Todos os membros comprometem-se com a atuação colaborativa, ética e
-transparente na condução das atividades do grupo.
+**Mini-biografia:** Rafael Noronha é desenvolvedor de software com
+atuação em backend. Trabalha com sistemas em cloud, utilizando
+principalmente Golang, PHP e Node.js Tem interesse em infraestrutura e
+engenharia de confiabilidade em software (SRE), além de atuar com
+ambientes Linux no dia a dia, possui experiência com desenvolvimento de
+APIs, integração entre serviços e uso de bancos de dados relacionais.

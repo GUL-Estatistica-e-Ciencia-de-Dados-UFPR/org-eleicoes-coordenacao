@@ -1,7 +1,7 @@
 ---
 author:
-- Chapa 01
-date: 2026-04-28
+- Chapa 01 - "stats.sh"
+date: 2026-05-05
 title: |
   **Plano de Gestão  
   GULECD/UFPR**
@@ -10,10 +10,10 @@ title: |
 # Introdução
 
 O presente Plano de Gestão tem como objetivo delinear as diretrizes
-estratégicas, operacionais e institucionais da chapa proponente para a
-coordenação do Grupo de Usuários Linux e Software Livre do curso de
-Estatística e Ciência de Dados da Universidade Federal do Paraná
-(GULECD/UFPR).
+estratégicas, operacionais e institucionais da chapa Chapa 01 -
+"stats.sh" para a coordenação do Grupo de Usuários Linux e Software
+Livre do curso de Estatística e Ciência de Dados da Universidade Federal
+do Paraná (GULECD/UFPR).
 
 Este plano está fundamentado nos princípios estabelecidos pelo
 Manifesto, pela Carta de Fundação e pelo Código de Conduta do grupo,
@@ -26,6 +26,10 @@ A proposta desta chapa está orientada para a consolidação institucional
 do grupo, expansão de suas atividades e fortalecimento de sua comunidade
 interna e externa. Pretende-se estabelecer uma base sólida que permita a
 continuidade e expansão das iniciativas do GULECD/UFPR.
+
+A visão da chapa é edificar um grupo com bases sólidas e duradouras, uma
+agremiação autossustentável que sobreviva e cresça além da passagem de
+cada indivíduo, construindo um legado coletivo.
 
 # Objetivos Estratégicos
 
@@ -41,6 +45,10 @@ continuidade e expansão das iniciativas do GULECD/UFPR.
 - Estabelecer o grupo como referência em software livre/código aberto e
   estatística/ciência de dados no âmbito institucional e nacional.
 
+- Formar parceria com um *"host fiscal"* visando capacidade de receber
+  auxílios, patrocínios e demais formas de recursos destinados a
+  atividades do grupo.
+
 ## Estruturação do Ambiente de Desenvolvimento
 
 - Estruturar um ambiente institucional que permita aos membros
@@ -54,7 +62,7 @@ continuidade e expansão das iniciativas do GULECD/UFPR.
   experimentais.
 
 - Buscar recursos institucionais e parcerias para viabilizar a abertura
-  contínua dos laboratórios A e B para uso dos alunos.
+  contínua dos laboratórios A e B do PA para uso dos alunos.
 
 ## Parcerias e Sustentabilidade
 
@@ -82,7 +90,7 @@ continuidade e expansão das iniciativas do GULECD/UFPR.
 ## Formação e Capacitação
 
 - Promover cursos e palestras sobre uso e desenvolvimento de software
-  livre e código aberto.
+  livre e de código aberto.
 
 - Desenvolver material educativo estruturado e acessível.
 
